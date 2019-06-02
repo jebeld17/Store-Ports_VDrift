@@ -1,0 +1,1851 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Translators:
+# sefox <core13@gmx.net>, 2014
+# Ettore Atalan <atalanttore@googlemail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: VDrift\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-21 15:30+0100\n"
+"PO-Revision-Date: 2014-08-21 18:03+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"Language-Team: German (http://www.transifex.com/projects/p/vdrift/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. TRANSLATORS: Set this to the language codepage (character encoding). It is
+#. used to select the font texture.
+msgid "_CODEPAGE_"
+msgstr "1252"
+
+#: ../settings/options.config:116
+msgid "16bpp"
+msgstr "16bpp"
+
+#: ../skins/simple/menus/TransmissionControls:337
+msgid "1st"
+msgstr "1."
+
+#: ../settings/options.config:748
+msgid "24-bit"
+msgstr "24 Bit"
+
+#: ../skins/simple/menus/TransmissionControls:404
+msgid "2nd"
+msgstr "2."
+
+#: ../settings/options.config:118
+msgid "32bpp"
+msgstr "32bpp"
+
+#: ../skins/simple/menus/TransmissionControls:471
+msgid "3rd"
+msgstr "3."
+
+#: ../skins/simple/menus/TransmissionControls:538
+msgid "4th"
+msgstr "4."
+
+#: ../skins/simple/menus/TransmissionControls:605
+msgid "5th"
+msgstr "5."
+
+#: ../skins/simple/menus/TransmissionControls:672
+msgid "6th"
+msgstr "6."
+
+#: ../skins/simple/menus/CarControls:471
+msgid "ABS Toggle"
+msgstr "ABS-Schalter"
+
+#: ../skins/simple/menus/CarSetup:187 ../skins/simple/menus/Garage:187
+#: ../skins/simple/menus/SingleRace:433
+msgid "AI Level"
+msgstr "Fahrerstärke"
+
+#: ../skins/simple/menus/InGameMain:103
+msgid "Abort"
+msgstr "Abbrechen"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:91
+#: ../skins/simple/menus/DisplayOptionsAdvanced:111
+msgid "Adjust the amount of colours available."
+msgstr "Farbtiefe ändern."
+
+#: ../skins/simple/menus/CarManager:101
+msgid "Advance to the next car."
+msgstr "Nächstes Fahrzeug anzeigen."
+
+#: ../skins/simple/menus/TrackManager:101
+msgid "Advance to the next track."
+msgstr "Nächste Strecke anzeigen."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:729
+msgid "Ambient Occlusion"
+msgstr "Umgebungsschatten"
+
+#: ../skins/simple/menus/TransmissionControls:69
+msgid "Analog Clutch"
+msgstr "Analoge Kupplung"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:256
+msgid "Anisotropic Filtering"
+msgstr "Anisotrope Filterung"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:315
+msgid "Antialiasing"
+msgstr "Kantenglättung"
+
+#: ../skins/simple/menus/CarSetup:588 ../skins/simple/menus/Garage:588
+msgid "Antilock Brakes"
+msgstr "Antiblockiersystem"
+
+#: ../skins/simple/menus/QuitConfirm:37
+msgid "Are you sure you want to quit?"
+msgstr "Sind Sie sicher, dass Sie beenden wollen?"
+
+#: ../skins/simple/menus/ControlsOptions:134
+msgid "Assign inputs to actions related to replays."
+msgstr "Tasten für die Wiederholungen betreffende Aktionen zuweisen."
+
+#: ../skins/simple/menus/CarControls:742
+msgid "Assign inputs to actions related to the transmission."
+msgstr "Tasten für die Schaltung betreffende Aktionen zuweisen."
+
+#: ../skins/simple/menus/ControlsOptions:78
+msgid "Assign inputs to actions that affect the car."
+msgstr "Tasten für das Fahrzeug betreffende Aktionen zuweisen."
+
+#: ../skins/simple/menus/ControlsOptions:50
+msgid "Assign inputs to actions that affect the game."
+msgstr "Tasten für das Spiel betreffende Aktionen zuweisen."
+
+#: ../skins/simple/menus/ControlsOptions:190
+msgid "Assign inputs to actions that affect the gui."
+msgstr "Tasten für die GUI-Navigation zuweisen."
+
+#: ../skins/simple/menus/ControlsOptions:106
+msgid "Assign inputs to camera controls."
+msgstr "Tasten zur Bewegung der Kamera zuweisen."
+
+#: ../skins/simple/menus/ControlsOptions:162
+msgid "Assign inputs to miscellaneous helpful actions."
+msgstr "Tasten zu diversen nützlichen Aktionen zuweisen."
+
+#: ../skins/simple/menus/InputDevice:458
+msgid "Automatic Clutch"
+msgstr "Kupplungsautomatik"
+
+#: ../skins/simple/menus/InputDevice:399
+msgid "Automatic Shift"
+msgstr "Schaltungsautomatik"
+
+#: ../skins/simple/menus/InputDevice:529 ../skins/simple/menus/InputDevice:549
+msgid ""
+"Automatically shift to neutral when no gear button is active, as with H-Gate"
+" shifters."
+msgstr "Getriebe automatisch in den Leerlauf schaten sobald kein Gang eingelegt ist, wie bei einer H-Schaltung."
+
+#: ../skins/simple/menus/CarManager:195 ../skins/simple/menus/CarSetup:734
+#: ../skins/simple/menus/ControlsOptions:215
+#: ../skins/simple/menus/DataConnectionError:47
+#: ../skins/simple/menus/Garage:734 ../skins/simple/menus/Options:159
+#: ../skins/simple/menus/Replays:156 ../skins/simple/menus/ReplayStartError:47
+#: ../skins/simple/menus/SingleRace:595 ../skins/simple/menus/StartingGrid:237
+#: ../skins/simple/menus/TrackManager:195
+#: ../skins/simple/menus/UpdateFailedVersion:47
+#: ../skins/simple/menus/Updates:131 ../skins/simple/menus/UpdatesFound:131
+#: ../skins/simple/menus/UpdateSuccessful:47
+msgid "Back"
+msgstr "Zurück"
+
+#: ../skins/simple/menus/Replays:131
+msgid "Begin playing the last recorded replay."
+msgstr "Die letzte Aufzeichnung abspielen."
+
+#: ../../src/hud.cpp:106
+msgid "Best lap:"
+msgstr "Beste Runde:"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:492
+msgid "Bloom"
+msgstr "Überstrahlungseffekt"
+
+#: ../skins/simple/menus/CarControls:136
+msgid "Brake"
+msgstr "Bremse"
+
+#: ../skins/simple/menus/CarSetup:551 ../skins/simple/menus/Garage:551
+msgid "Brightness"
+msgstr "Helligkeit"
+
+#: ../skins/simple/menus/Updates:106 ../skins/simple/menus/UpdatesFound:89
+msgid "Browse cars and apply updates"
+msgstr "Fahrzeuge durchsuchen und Aktualisierungen übernehmen"
+
+#: ../skins/simple/menus/Updates:78 ../skins/simple/menus/UpdatesFound:47
+msgid "Browse tracks and apply updates"
+msgstr "Strecken durchsuchen und Aktualisierungen übernehmen"
+
+#: ../skins/simple/menus/InputDevice:340
+msgid "Button Control Delay"
+msgstr "Tastenempfindlichkeit"
+
+#: ../skins/simple/menus/ControlsOptions:103
+msgid "Camera"
+msgstr "Kamera"
+
+#: ../skins/simple/menus/DisplayOptions:788
+msgid "Camera Bounce"
+msgstr "Kamerawackeln"
+
+#: ../skins/simple/menus/CameraViewControls:739
+msgid "Camera Movement"
+msgstr "Kamerabewegung"
+
+#: ../skins/simple/menus/CameraMovementControls:471
+#: ../skins/simple/menus/CameraViewControls:767
+#: ../skins/simple/menus/CarControls:767
+#: ../skins/simple/menus/DisplayOptions:882
+#: ../skins/simple/menus/DisplayOptionsAdvanced:965
+#: ../skins/simple/menus/EditAnalogControl:254
+#: ../skins/simple/menus/EditButtonControl:234
+#: ../skins/simple/menus/GuiControls:136 ../skins/simple/menus/GuiControls:471
+#: ../skins/simple/menus/InputDevice:635
+#: ../skins/simple/menus/ReplaysControls:203
+#: ../skins/simple/menus/SoundOptions:222
+#: ../skins/simple/menus/ToolsControls:337
+#: ../skins/simple/menus/TransmissionControls:806
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: ../skins/simple/menus/CarManager:69 ../skins/simple/menus/CarSetup:234
+#: ../skins/simple/menus/ControlsOptions:75 ../skins/simple/menus/Garage:234
+msgid "Car"
+msgstr "Fahrzeug"
+
+#: ../skins/simple/menus/SingleRace:480
+msgid "Car Damage"
+msgstr "Fahrzeugschaden"
+
+#: ../skins/simple/menus/CarManager:119
+msgid "Car Name"
+msgstr "Fahrzeugname"
+
+#: ../skins/simple/menus/UpdatesFound:100
+msgid "Car updates"
+msgstr "Fahrzeugaktualisierungen"
+
+#: ../skins/simple/menus/Updates:103
+msgid "Cars"
+msgstr "Fahrzeuge"
+
+#: ../skins/simple/menus/CarSetup:81 ../skins/simple/menus/CarSetup:101
+#: ../skins/simple/menus/Garage:81 ../skins/simple/menus/Garage:101
+msgid "Change car start position."
+msgstr "Fahrzeug-Startposition ändern."
+
+#: ../skins/simple/menus/Options:78
+msgid "Change graphics settings."
+msgstr "Grafik-Einstellungen ändern."
+
+#: ../skins/simple/menus/Options:134
+msgid "Change input and control settings."
+msgstr "Einstellungen der Eingabe und Steuerung ändern."
+
+#: ../skins/simple/menus/InGameMain:134
+msgid "Change some of the options while the game is running."
+msgstr "Einstellungen ändern während ein Rennen läuft."
+
+#: ../skins/simple/menus/Options:106
+msgid "Change sound settings."
+msgstr "Die Audioeinstellungen ändern."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:681
+#: ../skins/simple/menus/DisplayOptionsAdvanced:701
+msgid "Change the amount of particles used for smoke and dust effects."
+msgstr "Die für Qualm- und Staubeffekte verwendete Partikelmenge ändern."
+
+#: ../skins/simple/menus/DisplayOptions:846
+msgid "Change the contrast of the display."
+msgstr "Den Bildschirmkontrast ändern."
+
+#: ../skins/simple/menus/DisplayOptions:91
+#: ../skins/simple/menus/DisplayOptions:112
+msgid "Change the game resolution."
+msgstr "Die Spielauflösung ändern."
+
+#: ../skins/simple/menus/DisplayOptions:446
+#: ../skins/simple/menus/DisplayOptions:466
+msgid "Change the graphics and layout of the VDrift menus."
+msgstr "Die Grafik und Anordnung der VDrift-Menüs ändern."
+
+#: ../skins/simple/menus/DisplayOptions:505
+#: ../skins/simple/menus/DisplayOptions:525
+msgid "Change the language of the VDrift menus."
+msgstr "Die Sprache der VDrift-Menüs ändern."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:209
+#: ../skins/simple/menus/DisplayOptionsAdvanced:229
+msgid "Change the maximum view distance."
+msgstr "Die maximale Sichtweite ändern."
+
+#: ../skins/simple/menus/SoundOptions:81
+#: ../skins/simple/menus/SoundOptions:101
+msgid "Change the number of sound sources in the game."
+msgstr "Die maximale Anzahl an Geräuschquellen ändern."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:150
+#: ../skins/simple/menus/DisplayOptionsAdvanced:170
+msgid "Change the size of the textures displayed."
+msgstr "Die Größe der angezeigten Texturen ändern."
+
+#: ../skins/simple/menus/DisplayOptions:799
+msgid "Change the strength of the camera bounce effect."
+msgstr "Die Stärke des Kamera-Erschütterungseffekts ändern."
+
+#: ../skins/simple/menus/InputDevice:81 ../skins/simple/menus/InputDevice:101
+msgid "Change the type of joystick device."
+msgstr "Die Art des Eingabegeräts ändern."
+
+#: ../skins/simple/menus/DisplayOptions:269
+#: ../skins/simple/menus/DisplayOptions:289
+msgid "Change the units that speed is displayed in between MPH and KPH."
+msgstr "Die angezeigten Geschwindigkeitseinheiten zwischen KM/H und MPH ändern."
+
+#: ../skins/simple/menus/SoundOptions:186
+msgid "Change the volume of the music in the game."
+msgstr "Die Musiklautstärke im Spiel ändern."
+
+#: ../skins/simple/menus/SoundOptions:139
+msgid "Change the volume of the sound effects in the game."
+msgstr "Die Effektlautstärke im Spiel ändern."
+
+#: ../skins/simple/menus/Options:50
+msgid "Change video and display settings."
+msgstr "Video- und Anzeige-Einstellungen ändern."
+
+#: ../skins/simple/menus/CameraViewControls:404
+msgid "Chase Loose"
+msgstr "Lose Verfolgerkamera"
+
+#: ../skins/simple/menus/CameraViewControls:337
+msgid "Chase Rigid"
+msgstr "Feste Verfolgerkamera"
+
+#: ../skins/simple/menus/Updates:50
+msgid "Check for updates to your existing cars and tracks"
+msgstr "Nach Aktualisierungen für Fahrzeuge und Strecken suchen"
+
+#: ../skins/simple/menus/Updates:47
+msgid "Check updates"
+msgstr "Nach Aktualisierungen suchen"
+
+#: ../skins/simple/menus/CarSetup:561 ../skins/simple/menus/Garage:561
+msgid "Choose the brightness for the car."
+msgstr "Die Fahrzeughelligkeit ändern."
+
+#: ../skins/simple/menus/CarSetup:305 ../skins/simple/menus/CarSetup:325
+#: ../skins/simple/menus/Garage:305 ../skins/simple/menus/Garage:325
+msgid "Choose the car tire type."
+msgstr "Wählen Sie den Reifentyp."
+
+#: ../skins/simple/menus/Cars:98 ../skins/simple/menus/CarSetup:246
+#: ../skins/simple/menus/CarSetup:266 ../skins/simple/menus/Garage:246
+#: ../skins/simple/menus/Garage:266
+msgid "Choose the car to drive."
+msgstr "Wählen Sie das Fahrzeug."
+
+#: ../skins/simple/menus/CarSetup:364 ../skins/simple/menus/CarSetup:384
+#: ../skins/simple/menus/Garage:364 ../skins/simple/menus/Garage:384
+msgid "Choose the car wheel type."
+msgstr "Wählen Sie die Felge."
+
+#: ../skins/simple/menus/CarSetup:480 ../skins/simple/menus/Garage:480
+msgid "Choose the hue for the car."
+msgstr "Wählen Sie den Farbton des Fahrzeugs."
+
+#: ../skins/simple/menus/CarSetup:423 ../skins/simple/menus/CarSetup:443
+#: ../skins/simple/menus/Garage:423 ../skins/simple/menus/Garage:443
+msgid "Choose the paint job for the car."
+msgstr "Wählen Sie eine Fahrzeuglackierung."
+
+#: ../skins/simple/menus/CarSetup:515 ../skins/simple/menus/Garage:515
+msgid "Choose the saturation for the car."
+msgstr "Wählen Sie die Fahrzeugsättigung."
+
+#: ../skins/simple/menus/SingleRace:91 ../skins/simple/menus/SingleRace:111
+#: ../skins/simple/menus/Tracks:98
+msgid "Choose the track to drive on."
+msgstr "Wählen Sie die zu fahrende Strecke."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:79
+msgid "Color Depth"
+msgstr "Farbtiefe"
+
+#: ../skins/simple/menus/Main:134
+msgid "Configure your display, sound and controls."
+msgstr "Grafik, Audio und Eingaben konfigurieren."
+
+#: ../skins/simple/menus/InputDevice:588 ../skins/simple/menus/InputDevice:608
+msgid "Confine mouse to the application window and hide cursor when playing."
+msgstr "Maus auf das Anwendungsfenster beschränken und währed der Rennen ausblenden."
+
+#: ../skins/simple/menus/InGameMain:47
+msgid "Continue"
+msgstr "Fortsetzen"
+
+#: ../skins/simple/menus/DisplayOptions:835
+msgid "Contrast"
+msgstr "Kontrast"
+
+#: ../skins/simple/menus/EditAnalogControl:69
+#: ../skins/simple/menus/EditButtonControl:69
+msgid "Control"
+msgstr "Steuerung"
+
+#: ../skins/simple/menus/Options:131
+msgid "Controls"
+msgstr "Eingabe"
+
+#: ../skins/simple/menus/EditAnalogControl:88
+msgid "Deadzone"
+msgstr "Totzone"
+
+#: ../settings/options.config:217
+msgid "Default"
+msgstr "Standard"
+
+#: ../skins/simple/menus/EditAnalogControl:226
+#: ../skins/simple/menus/EditButtonControl:206
+msgid "Delete"
+msgstr "Löschen"
+
+#: ../skins/simple/menus/EditButtonControl:209
+msgid "Delete this control and return to the previous menu."
+msgstr "Diese Steuerung löschen und zum vorherigen Menü zurückkehren"
+
+#: ../skins/simple/menus/EditAnalogControl:229
+msgid "Delete this control."
+msgstr "Diese Steuerung löschen."
+
+#: ../skins/simple/menus/Options:47
+msgid "Display"
+msgstr "Bild"
+
+#: ../skins/simple/menus/DisplayOptions:623
+#: ../skins/simple/menus/DisplayOptions:643
+msgid "Display a track map."
+msgstr "Streckenkarte anzeigen."
+
+#: ../skins/simple/menus/DisplayOptions:682
+#: ../skins/simple/menus/DisplayOptions:702
+msgid "Display the racing line."
+msgstr "Ideallinie anzeigen."
+
+#: ../skins/simple/menus/GuiControls:404
+msgid "Down"
+msgstr "Herunter"
+
+#: ../skins/simple/menus/CarManager:167 ../skins/simple/menus/TrackManager:167
+msgid "Download"
+msgstr "Herunterladen"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:386
+#: ../skins/simple/menus/DisplayOptionsAdvanced:406
+msgid "Draw dynamic shadows."
+msgstr "Dynamische Schatten aktivieren."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:504
+#: ../skins/simple/menus/DisplayOptionsAdvanced:524
+msgid "Draw highlights."
+msgstr "Aktiviere Lichteffekte."
+
+#: ../skins/simple/menus/CameraViewControls:270
+#: ../skins/simple/menus/CarSetup:128 ../skins/simple/menus/Garage:128
+msgid "Driver"
+msgstr "Fahrer"
+
+#: ../skins/simple/menus/SingleRace:542
+msgid "Edit cars, drivers and starting positions."
+msgstr "Ändere Fahrzeuge, Fahrer und Startpositionen."
+
+#: ../skins/simple/menus/SingleRace:492 ../skins/simple/menus/SingleRace:512
+msgid "Enable car damage model."
+msgstr "Aktiviere Schadensmodel."
+
+#: ../skins/simple/menus/SingleRace:327 ../skins/simple/menus/SingleRace:347
+msgid "Enable track objects damage."
+msgstr "Aktiviere Schaden an Streckenobjekten."
+
+#: ../skins/simple/menus/InputDevice:470 ../skins/simple/menus/InputDevice:490
+msgid "Enable/disable automatic clutching (prevents car from stalling)."
+msgstr "Aktiviere automatische Kupplung."
+
+#: ../skins/simple/menus/InputDevice:411 ../skins/simple/menus/InputDevice:431
+msgid "Enable/disable automatic transmission shifting."
+msgstr "Aktiviere Schaltautomatik."
+
+#: ../skins/simple/menus/DisplayOptions:328
+#: ../skins/simple/menus/DisplayOptions:348
+msgid "Enable/disable the framerate counter."
+msgstr "Aktiviere FPS-Zähler Anzeige."
+
+#: ../skins/simple/menus/DisplayOptions:387
+#: ../skins/simple/menus/DisplayOptions:407
+msgid "Enable/disable the heads up display."
+msgstr "Aktiviere Blickfeldanzeige."
+
+#: ../skins/simple/menus/EditAnalogControl:180
+msgid "Exponent"
+msgstr "Exponent"
+
+#: ../settings/options.config:446
+msgid "Extra-wide"
+msgstr "Extra-Weit"
+
+#: ../settings/options.config:485
+msgid "Far"
+msgstr "Weit"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:622
+#: ../skins/simple/menus/DisplayOptionsAdvanced:642
+msgid "Fast moving objects blur slightly."
+msgstr "Sich schnell bewegende Objekte werden leicht unscharf dargestellt."
+
+#: ../settings/options.config:215
+msgid "Few"
+msgstr "Wenige"
+
+#: ../skins/simple/menus/DisplayOptions:729
+msgid "Field of View"
+msgstr "Sichtfeld"
+
+#: ../skins/simple/menus/DisplayOptions:741
+#: ../skins/simple/menus/DisplayOptions:761
+msgid "Field of view in the vertical direction."
+msgstr "Vertikaler Sichtfeldwinkel"
+
+#: ../skins/simple/menus/CameraViewControls:605
+msgid "Focus Next"
+msgstr "Nächsten anvisieren"
+
+#: ../skins/simple/menus/CameraViewControls:672
+msgid "Focus Previous"
+msgstr "Vorherigen anvisieren"
+
+#: ../skins/simple/menus/CameraViewControls:617
+#: ../skins/simple/menus/CameraViewControls:636
+#: ../skins/simple/menus/CameraViewControls:655
+msgid "Focus the camera on next car."
+msgstr "Die Kamera auf das nächste Fahrzeug ausrichten."
+
+#: ../skins/simple/menus/CameraViewControls:684
+#: ../skins/simple/menus/CameraViewControls:703
+#: ../skins/simple/menus/CameraViewControls:722
+msgid "Focus the camera on previous car."
+msgstr "Die Kamera auf das vorherige Fahrzeug ausrichten."
+
+#: ../skins/simple/menus/InputDevice:246
+msgid "Force Feedback Gain"
+msgstr "Force Feedback Stärke"
+
+#: ../skins/simple/menus/InputDevice:187
+msgid "Force Feedback Invert"
+msgstr "Force Feedback Umkehren"
+
+#: ../skins/simple/menus/CameraMovementControls:474
+msgid "Forget changes and return to Camera Controls menu."
+msgstr "Änderungen verwerfen und zum Menü 'Eingabe / Kamera' zurückkehren."
+
+#: ../skins/simple/menus/TransmissionControls:809
+msgid "Forget changes and return to Car Controls menu."
+msgstr "Änderungen verwerfen und zum Menü 'Eingabe / Fahrzeug' zurückkehren."
+
+#: ../skins/simple/menus/CarControls:770 ../skins/simple/menus/GuiControls:474
+#: ../skins/simple/menus/InputDevice:638
+msgid "Forget changes and return to Controls menu."
+msgstr "Änderungen verwerfen und zum Menü 'Eingabe' zurückkehren."
+
+#: ../skins/simple/menus/CameraViewControls:770
+#: ../skins/simple/menus/ReplaysControls:206
+#: ../skins/simple/menus/ToolsControls:340
+msgid "Forget changes and return to Game Controls menu."
+msgstr "Änderungen verwerfen und zum Menü 'Eingabe' zurückkehren."
+
+#: ../skins/simple/menus/DisplayOptions:885
+#: ../skins/simple/menus/DisplayOptionsAdvanced:968
+#: ../skins/simple/menus/EditAnalogControl:257
+#: ../skins/simple/menus/SoundOptions:225
+msgid "Forget changes and return to Options menu."
+msgstr "Änderungen verwerfen und zum Menü 'Einstellungen' zurückkehren."
+
+#: ../skins/simple/menus/EditButtonControl:237
+msgid "Forget changes and return to the previous menu."
+msgstr "Änderungen verwerfen und zum vorherigen Menü zurückkehren."
+
+#: ../skins/simple/menus/DisplayOptions:316
+msgid "Framerate Counter"
+msgstr "Bildwiederholratenanzeige"
+
+#: ../skins/simple/menus/CameraViewControls:538
+msgid "Free"
+msgstr "Frei"
+
+#: ../skins/simple/menus/DisplayOptions:139
+msgid "Fullscreen"
+msgstr "Vollbild"
+
+#: ../../src/hud.cpp:111
+msgid "GO"
+msgstr "LOS"
+
+#: ../skins/simple/menus/ControlsOptions:187
+msgid "GUI"
+msgstr "GUI"
+
+#: ../skins/simple/menus/EditAnalogControl:134
+msgid "Gain"
+msgstr "Verstärkung"
+
+#: ../skins/simple/menus/Garage:59 ../skins/simple/menus/Main:47
+msgid "Garage"
+msgstr "Garage"
+
+#: ../skins/simple/menus/CarControls:69
+msgid "Gas"
+msgstr "Gas"
+
+#: ../skins/simple/menus/ReplayStartError:50
+msgid "Go back to the Replays menu."
+msgstr "Zurück zum Menü 'Replays'."
+
+#: ../skins/simple/menus/UpdateSuccessful:50
+msgid "Go back to the Updates page."
+msgstr "Zurück zum Menü 'Aktualisierung'."
+
+#: ../skins/simple/menus/CarManager:81
+msgid "Go back to the last car."
+msgstr "Zurück zum vorherigen Fahrzeug."
+
+#: ../skins/simple/menus/TrackManager:81
+msgid "Go back to the last track."
+msgstr "Zurück zur vorherigen Strecke."
+
+#: ../skins/simple/menus/DataConnectionError:50
+#: ../skins/simple/menus/UpdateFailedVersion:50
+msgid "Go back to the main menu."
+msgstr "Zurück zum Hauptmenü."
+
+#: ../skins/simple/menus/InputDevice:576
+msgid "Grab Mouse"
+msgstr "Maus beschränken"
+
+#: ../skins/simple/menus/Options:75
+msgid "Graphics"
+msgstr "Grafik"
+
+#: ../skins/simple/menus/InputDevice:517
+msgid "H-Gate Shifter"
+msgstr "H-Schaltung"
+
+#: ../skins/simple/menus/CarControls:404
+msgid "Handbrake"
+msgstr "Handbremse"
+
+#: ../skins/simple/menus/DisplayOptions:375
+msgid "Heads Up Display"
+msgstr "Blickfeldanzeige"
+
+#: ../skins/simple/menus/CarSetup:600 ../skins/simple/menus/CarSetup:620
+#: ../skins/simple/menus/Garage:600 ../skins/simple/menus/Garage:620
+msgid "Help reduce wheel lockup on heavy braking (driver aid)."
+msgstr "Reduziere blockierende Räder bei hartem Bremsen (Fahrerhilfe)."
+
+#: ../settings/options.config:202 ../settings/options.config:289
+#: ../settings/options.config:459 ../settings/options.config:472
+#: ../settings/options.config:499
+msgid "High"
+msgstr "Hoch"
+
+#: ../skins/simple/menus/CarSetup:198 ../skins/simple/menus/Garage:198
+#: ../skins/simple/menus/SingleRace:444
+msgid "Higher values result in an AI that will drive faster."
+msgstr "Höherer Wert hat eine schnellere KI zur Folge."
+
+#: ../skins/simple/menus/CameraViewControls:203
+msgid "Hood"
+msgstr "Motorhaube"
+
+#: ../skins/simple/menus/CarSetup:470 ../skins/simple/menus/Garage:470
+msgid "Hue"
+msgstr "Farbton"
+
+#: ../skins/simple/menus/ControlsOptions:47
+msgid "Input Device"
+msgstr "Eingabegerät"
+
+#: ../skins/simple/menus/DisplayOptions:552
+msgid "Input Graph"
+msgstr "Eingaben Anzeige"
+
+#: ../settings/options.config:272
+msgid "Joystick/Gamepad"
+msgstr "Joystick/Gamepad"
+
+#: ../../src/hud.cpp:115
+msgid "KPH"
+msgstr "KM/H"
+
+#: ../skins/simple/menus/Main:162
+msgid "Keep your cars and tracks up to date"
+msgstr "Fahrzeug und Strecken auf dem neuesten Stand halten"
+
+#: ../../src/hud.cpp:104
+msgid "Lap time:"
+msgstr "Rundenzeit:"
+
+#: ../../src/hud.cpp:108
+msgid "Lap:"
+msgstr "Runde:"
+
+#: ../skins/simple/menus/SingleRace:138
+msgid "Laps"
+msgstr "Runden"
+
+#: ../settings/options.config:147
+msgid "Large"
+msgstr "Groß"
+
+#: ../../src/hud.cpp:105
+msgid "Last lap:"
+msgstr "Letzte Runde:"
+
+#: ../skins/simple/menus/InGameMain:106
+msgid "Leave game and return to the Main menu."
+msgstr "Spiel verlassen und zum Hauptmenü zurückkehren."
+
+#: ../skins/simple/menus/InGameMain:50
+msgid "Leave the menu and continue the game."
+msgstr "Menü verlassen und Spiel fortsetzen."
+
+#: ../skins/simple/menus/GuiControls:203
+msgid "Left"
+msgstr "Links"
+
+#: ../skins/simple/menus/InputDevice:140 ../skins/simple/menus/InputDevice:160
+msgid ""
+"Limit steering range to 200 degrees, gives a realistic feel to limited range"
+" wheels."
+msgstr "Den Lenkeinschlag auf 200 Grad begrenzen, dies gibt ein realistisches Gefühl zum begrenzten Lenkeinschlag."
+
+#: ../skins/simple/menus/Loading:36
+msgid "Loading"
+msgstr "Lade"
+
+#: ../skins/simple/menus/CarManager:129 ../skins/simple/menus/TrackManager:129
+msgid "Local"
+msgstr "Lokal"
+
+#: ../skins/simple/menus/CarControls:617 ../skins/simple/menus/CarControls:636
+#: ../skins/simple/menus/CarControls:655
+msgid "Look behind you during driving."
+msgstr "Nach hinten sehen."
+
+#: ../settings/options.config:198 ../settings/options.config:285
+#: ../settings/options.config:457 ../settings/options.config:470
+#: ../settings/options.config:495
+msgid "Low"
+msgstr "Niedrig"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:445
+#: ../skins/simple/menus/DisplayOptionsAdvanced:465
+msgid ""
+"Lower renderer version will speed up rendering at the cost of visual "
+"quality."
+msgstr "Niedrigere Renderer-Version erlaubt flüssigere Spielwiedergabe auf Kosten der visuellen Qualität."
+
+#: ../../src/hud.cpp:114
+msgid "MPH"
+msgstr "MPH"
+
+#: ../settings/options.config:219
+msgid "Many"
+msgstr "Viele"
+
+#: ../settings/options.config:145 ../settings/options.config:200
+#: ../settings/options.config:287 ../settings/options.config:483
+#: ../settings/options.config:497
+msgid "Medium"
+msgstr "Mittel"
+
+#: ../skins/simple/menus/DisplayOptions:493
+msgid "Menu Language"
+msgstr "Menüsprache"
+
+#: ../skins/simple/menus/DisplayOptions:434
+msgid "Menu Skin"
+msgstr "Menügrafik"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:610
+msgid "Motion Blur"
+msgstr "Bewegungsunschärfe"
+
+#: ../skins/simple/menus/GuiControls:416 ../skins/simple/menus/GuiControls:435
+#: ../skins/simple/menus/GuiControls:454
+msgid "Move the currently focused menu item down."
+msgstr "Zum Menüelement unten bewegen."
+
+#: ../skins/simple/menus/GuiControls:215 ../skins/simple/menus/GuiControls:234
+#: ../skins/simple/menus/GuiControls:253
+msgid "Move the currently focused menu item left."
+msgstr "Zum Menüelement links bewegen."
+
+#: ../skins/simple/menus/GuiControls:282 ../skins/simple/menus/GuiControls:301
+#: ../skins/simple/menus/GuiControls:320
+msgid "Move the currently focused menu item right."
+msgstr "Zum Menüelement rechts bewegen."
+
+#: ../skins/simple/menus/GuiControls:349 ../skins/simple/menus/GuiControls:368
+#: ../skins/simple/menus/GuiControls:387
+msgid "Move the currently focused menu item up."
+msgstr "Zum Menüelement oben bewegen."
+
+#: ../skins/simple/menus/GuiControls:148 ../skins/simple/menus/GuiControls:167
+#: ../skins/simple/menus/GuiControls:186
+msgid "Move up a menu level."
+msgstr "Zum übergeordneten Menü wechseln."
+
+#: ../skins/simple/menus/InputDevice:257
+msgid "Multiplier to adjust strength of force feedback."
+msgstr "Force Feedback Stärke-Multiplikator."
+
+#: ../skins/simple/menus/SoundOptions:175
+msgid "Music Volume"
+msgstr "Musiklautstärke"
+
+#: ../settings/options.config:481
+msgid "Near"
+msgstr "Nah"
+
+#: ../skins/simple/menus/TransmissionControls:270
+msgid "Neutral"
+msgstr "Leerlauf"
+
+#: ../skins/simple/menus/CameraViewControls:136
+msgid "Next Camera"
+msgstr "Nächste Kamera"
+
+#: ../skins/simple/menus/QuitConfirm:47 ../settings/options.config:304
+msgid "No"
+msgstr "Nein"
+
+#: ../settings/options.config:442
+msgid "Normal"
+msgstr "Normal"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:551
+msgid "Normal Maps"
+msgstr "Normalmaps"
+
+#: ../skins/simple/menus/CameraMovementControls:499
+#: ../skins/simple/menus/CameraViewControls:795
+#: ../skins/simple/menus/CarControls:795
+#: ../skins/simple/menus/DisplayOptions:910
+#: ../skins/simple/menus/DisplayOptionsAdvanced:993
+#: ../skins/simple/menus/EditAnalogControl:282
+#: ../skins/simple/menus/EditButtonControl:262
+#: ../skins/simple/menus/GuiControls:499 ../skins/simple/menus/InputDevice:663
+#: ../skins/simple/menus/ReplaysControls:231
+#: ../skins/simple/menus/SoundOptions:250
+#: ../skins/simple/menus/ToolsControls:365
+#: ../skins/simple/menus/TransmissionControls:834
+msgid "OK"
+msgstr "OK"
+
+#: ../settings/options.config:127 ../settings/options.config:135
+#: ../settings/options.config:156 ../settings/options.config:164
+#: ../settings/options.config:172 ../settings/options.config:180
+#: ../settings/options.config:213 ../settings/options.config:264
+#: ../settings/options.config:283 ../settings/options.config:318
+#: ../settings/options.config:326 ../settings/options.config:352
+#: ../settings/options.config:360 ../settings/options.config:368
+#: ../settings/options.config:382 ../settings/options.config:390
+#: ../settings/options.config:405 ../settings/options.config:413
+#: ../settings/options.config:434 ../settings/options.config:455
+#: ../settings/options.config:468 ../settings/options.config:512
+#: ../settings/options.config:641 ../settings/options.config:649
+#: ../settings/options.config:657 ../settings/options.config:674
+#: ../settings/options.config:682 ../settings/options.config:690
+#: ../settings/options.config:711 ../settings/options.config:719
+#: ../settings/options.config:766
+msgid "Off"
+msgstr "Aus"
+
+#: ../settings/options.config:126 ../settings/options.config:134
+#: ../settings/options.config:155 ../settings/options.config:163
+#: ../settings/options.config:171 ../settings/options.config:179
+#: ../settings/options.config:263 ../settings/options.config:317
+#: ../settings/options.config:325 ../settings/options.config:351
+#: ../settings/options.config:359 ../settings/options.config:367
+#: ../settings/options.config:381 ../settings/options.config:404
+#: ../settings/options.config:412 ../settings/options.config:433
+#: ../settings/options.config:511 ../settings/options.config:640
+#: ../settings/options.config:648 ../settings/options.config:656
+#: ../settings/options.config:673 ../settings/options.config:681
+#: ../settings/options.config:689 ../settings/options.config:710
+#: ../settings/options.config:718 ../settings/options.config:765
+msgid "On"
+msgstr "Ein"
+
+#: ../skins/simple/menus/SingleRace:374
+msgid "Opponents"
+msgstr "Gegner"
+
+#: ../skins/simple/menus/InGameMain:131 ../skins/simple/menus/Main:131
+#: ../skins/simple/menus/Options:37
+msgid "Options"
+msgstr "Einstellungen"
+
+#: ../skins/simple/menus/ControlsOptions:37
+msgid "Options / Controls"
+msgstr "Einstellungen / Eingabe"
+
+#: ../skins/simple/menus/EditAnalogControl:59
+msgid "Options / Controls / Analog / Edit"
+msgstr "Einstellungen / Eingabe / Analog / Ändern"
+
+#: ../skins/simple/menus/AssignControl:27
+msgid "Options / Controls / Assign"
+msgstr "Einstellungen / Eingabe / Analog"
+
+#: ../skins/simple/menus/EditButtonControl:59
+msgid "Options / Controls / Button / Edit"
+msgstr "Einstellungen / Eingabe / Taste / Ändern"
+
+#: ../skins/simple/menus/CameraViewControls:59
+msgid "Options / Controls / Camera"
+msgstr "Einstellungen / Eingabe / Kamera"
+
+#: ../skins/simple/menus/CameraMovementControls:59
+msgid "Options / Controls / Camera / Movement"
+msgstr "Einstellungen / Eingabe / Kamera / Bewegung"
+
+#: ../skins/simple/menus/CarControls:59
+msgid "Options / Controls / Car"
+msgstr "Einstellungen / Eingabe / Fahrzeug"
+
+#: ../skins/simple/menus/TransmissionControls:59
+msgid "Options / Controls / Car / Transmission"
+msgstr "Einstellungen / Eingabe / Fahrzeug / Getriebe"
+
+#: ../skins/simple/menus/GuiControls:59
+msgid "Options / Controls / GUI"
+msgstr "Einstellungen / Eingabe / GUI"
+
+#: ../skins/simple/menus/InputDevice:59
+msgid "Options / Controls / Input Device"
+msgstr "Einstellungen / Eingabe / Eingabegeräte"
+
+#: ../skins/simple/menus/ReplaysControls:59
+msgid "Options / Controls / Replays"
+msgstr "Einstellungen / Eingabe / Aufzeichnen"
+
+#: ../skins/simple/menus/ToolsControls:59
+msgid "Options / Controls / Tools"
+msgstr "Einstellungen / Eingabe / Erweitert"
+
+#: ../skins/simple/menus/DisplayOptions:59
+msgid "Options / Display"
+msgstr "Einstellungen / Bild"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:59
+msgid "Options / Graphics"
+msgstr "Einstellungen / Grafik"
+
+#: ../skins/simple/menus/SoundOptions:59
+msgid "Options / Sound"
+msgstr "Einstellungen / Audio"
+
+#: ../skins/simple/menus/CameraViewControls:471
+msgid "Orbit"
+msgstr "Umkreisen"
+
+#: ../skins/simple/menus/CarSetup:411 ../skins/simple/menus/Garage:411
+msgid "Paint"
+msgstr "Lackierung"
+
+#: ../skins/simple/menus/CameraMovementControls:270
+msgid "Pan Down"
+msgstr "Nach unten schwenken"
+
+#: ../skins/simple/menus/CameraMovementControls:69
+msgid "Pan Left"
+msgstr "Nach links schwenken"
+
+#: ../skins/simple/menus/CameraMovementControls:136
+msgid "Pan Right"
+msgstr "Nach rechts schwenken"
+
+#: ../skins/simple/menus/CameraMovementControls:203
+msgid "Pan Up"
+msgstr "Nach oben schwenken"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:669
+msgid "Particles"
+msgstr "Partikel"
+
+#: ../skins/simple/menus/ToolsControls:69
+msgid "Pause"
+msgstr "Pause"
+
+#: ../skins/simple/menus/InGameMain:37
+msgid "Pause Menu"
+msgstr "Pausenmenü"
+
+#: ../../src/hud.cpp:109
+msgid "Place:"
+msgstr "Platz:"
+
+#: ../skins/simple/menus/Main:106
+msgid "Play back recorded games."
+msgstr "Aufgezeichnete Rennen abpielen."
+
+#: ../skins/simple/menus/Main:50
+msgid "Player car and driver settings."
+msgstr "Fahrzeug- und Fahrereinstellungen."
+
+#: ../skins/simple/menus/AssignControl:37
+msgid ""
+"Press a key, press a joystick button, move a joystick axis, move the mouse, "
+"or click a mouse button."
+msgstr "Eine Eingabe machen."
+
+#: ../skins/simple/menus/CarSetup:659 ../skins/simple/menus/CarSetup:679
+#: ../skins/simple/menus/Garage:659 ../skins/simple/menus/Garage:679
+msgid "Prevents wheels from spinning during acceleration (driver aid)."
+msgstr "Verhindert durchdrehende Räder beim Beschleunigen."
+
+#: ../skins/simple/menus/CameraViewControls:69
+msgid "Previous Camera"
+msgstr "Vorherige Kamera"
+
+#: ../skins/simple/menus/InGameMain:159 ../skins/simple/menus/Main:187
+msgid "Quit"
+msgstr "Verlassen"
+
+#: ../skins/simple/menus/InGameMain:162 ../skins/simple/menus/Main:190
+msgid "Quit VDrift."
+msgstr "VDrift verlassen."
+
+#: ../skins/simple/menus/Main:75 ../skins/simple/menus/SingleRace:59
+msgid "Race"
+msgstr "Rennen"
+
+#: ../skins/simple/menus/Cars:37
+msgid "Race / Cars"
+msgstr "Rennen / Fahrzeuge"
+
+#: ../skins/simple/menus/StartingGrid:59
+msgid "Race / Starting Grid"
+msgstr "Rennen / Startaufstellung"
+
+#: ../skins/simple/menus/CarSetup:59
+msgid "Race / Starting Grid / Car"
+msgstr "Rennen / Startaufstellung / Fahrzeug"
+
+#: ../skins/simple/menus/Tracks:37
+msgid "Race / Tracks"
+msgstr "Rennen / Strecken"
+
+#: ../skins/simple/menus/SingleRace:209 ../skins/simple/menus/SingleRace:229
+msgid "Race on this track backwards."
+msgstr "Strecke in Rückwärtsrichtung befahren."
+
+#: ../skins/simple/menus/DisplayOptions:670
+msgid "Racing Line"
+msgstr "Ideallinie"
+
+#: ../../src/hud.cpp:110
+msgid "Ready"
+msgstr "Fertig"
+
+#: ../skins/simple/menus/CarControls:605
+msgid "Rear View"
+msgstr "Rückwärtskamera"
+
+#: ../skins/simple/menus/SingleRace:256
+msgid "Record Session"
+msgstr "Fahrt aufzeichnen"
+
+#: ../skins/simple/menus/SingleRace:268 ../skins/simple/menus/SingleRace:288
+msgid "Record this game for a replay later."
+msgstr "Fahrt zur späteren Wiedergabe aufzeichnen."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:788
+msgid "Reflection Quality"
+msgstr "Reflektionen Qualität"
+
+#: ../skins/simple/menus/ToolsControls:270
+msgid "Reload GUI"
+msgstr "GUI neu laden"
+
+#: ../skins/simple/menus/ToolsControls:203
+msgid "Reload Shaders"
+msgstr "Shader neu laden"
+
+#: ../skins/simple/menus/ToolsControls:282
+#: ../skins/simple/menus/ToolsControls:301
+#: ../skins/simple/menus/ToolsControls:320
+msgid "Reload graphical user interface."
+msgstr "Grafische Benutzeroberfläche neu laden."
+
+#: ../skins/simple/menus/ToolsControls:215
+#: ../skins/simple/menus/ToolsControls:234
+#: ../skins/simple/menus/ToolsControls:253
+msgid "Reload the vertex and fragment shader source files."
+msgstr "Lade Pixel- und Vertex-Shader neu."
+
+#: ../skins/simple/menus/CarManager:148 ../skins/simple/menus/TrackManager:148
+msgid "Remote"
+msgstr "Server"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:433
+msgid "Renderer"
+msgstr "Renderer"
+
+#: ../skins/simple/menus/ControlsOptions:131 ../skins/simple/menus/Main:103
+#: ../skins/simple/menus/Replays:59
+msgid "Replays"
+msgstr "Aufzeichnungen"
+
+#: ../skins/simple/menus/CarControls:684 ../skins/simple/menus/CarControls:703
+#: ../skins/simple/menus/CarControls:722
+msgid "Reset car after rollover."
+msgstr "Fahrzeug nach Überschlag zurücksetzen."
+
+#: ../skins/simple/menus/DisplayOptions:79
+msgid "Resolution"
+msgstr "Auflösung"
+
+#: ../skins/simple/menus/InGameMain:75
+msgid "Restart"
+msgstr "Neustarten"
+
+#: ../skins/simple/menus/InGameMain:78
+msgid "Restart this game using the same car and track settings."
+msgstr "Rennen mit den selben Einstellungen neustarten."
+
+#: ../skins/simple/menus/ControlsOptions:218
+msgid "Return to Options menu."
+msgstr "Zurück zum Einstellungen-Menü."
+
+#: ../skins/simple/menus/CarSetup:737 ../skins/simple/menus/Garage:737
+msgid "Return to previous menu."
+msgstr "Zurück zum vorherigen Menü."
+
+#: ../skins/simple/menus/Options:162 ../skins/simple/menus/Replays:159
+#: ../skins/simple/menus/SingleRace:598 ../skins/simple/menus/Updates:134
+msgid "Return to the Main menu."
+msgstr "Zurück zum Hauptmenü."
+
+#: ../skins/simple/menus/StartingGrid:240
+msgid "Return to the Race menu."
+msgstr "Zurück zum Rennen-Menü."
+
+#: ../skins/simple/menus/UpdatesFound:134
+msgid "Return to the Updates menu."
+msgstr "Zurück zum Aktualisierung-Menü."
+
+#: ../skins/simple/menus/CarManager:198 ../skins/simple/menus/TrackManager:198
+msgid "Return to the Updates page."
+msgstr "Zurück zur Aktualisierung-Seite."
+
+#: ../skins/simple/menus/TransmissionControls:739
+msgid "Reverse"
+msgstr "Rückwärtsgang"
+
+#: ../skins/simple/menus/SingleRace:197
+msgid "Reverse Track"
+msgstr "Rückwärts"
+
+#: ../skins/simple/menus/InputDevice:199 ../skins/simple/menus/InputDevice:219
+msgid "Reverse the force feedback, if necessary for your wheel."
+msgstr "Force Feedback Richtung umkehren."
+
+#: ../skins/simple/menus/GuiControls:270
+msgid "Right"
+msgstr "Rechts"
+
+#: ../skins/simple/menus/CarControls:672
+msgid "Rollover Recover"
+msgstr "Überschlag zurücksetzen"
+
+#: ../skins/simple/menus/CarSetup:505 ../skins/simple/menus/Garage:505
+msgid "Saturation"
+msgstr "Sättigung"
+
+#: ../skins/simple/menus/CameraMovementControls:502
+msgid "Save changes and return to Camera Controls menu."
+msgstr "Änderungen speichern und zurück zum Menü 'Eingabe / Kamera'."
+
+#: ../skins/simple/menus/TransmissionControls:837
+msgid "Save changes and return to Car Controls menu."
+msgstr "Änderungen speichern und zurück zum Menü 'Eingabe / Fahrzeug'."
+
+#: ../skins/simple/menus/CarControls:798 ../skins/simple/menus/GuiControls:502
+#: ../skins/simple/menus/InputDevice:666
+msgid "Save changes and return to Controls menu."
+msgstr "Änderungen speichern und zurück zum Menü 'Eingabe'."
+
+#: ../skins/simple/menus/CameraViewControls:798
+#: ../skins/simple/menus/ReplaysControls:234
+#: ../skins/simple/menus/ToolsControls:368
+msgid "Save changes and return to Game Controls menu."
+msgstr "Änderungen speichern und zurück zum Menü 'Eingabe'."
+
+#: ../skins/simple/menus/DisplayOptions:913
+#: ../skins/simple/menus/DisplayOptionsAdvanced:996
+#: ../skins/simple/menus/EditAnalogControl:285
+#: ../skins/simple/menus/SoundOptions:253
+msgid "Save changes and return to Options menu."
+msgstr "Änderungen speichern und zurück zum Menü 'Einstellungen'."
+
+#: ../skins/simple/menus/EditButtonControl:265
+msgid "Save changes and return to the previous menu."
+msgstr "Änderungen speichern und zurück zum vorherigen Menü."
+
+#: ../../src/hud.cpp:107
+msgid "Score:"
+msgstr "Punkte:"
+
+#: ../skins/simple/menus/ToolsControls:136
+msgid "Screen Shot"
+msgstr "Bildschirmfoto"
+
+#: ../skins/simple/menus/GuiControls:69
+msgid "Select"
+msgstr "Auswählen"
+
+#: ../skins/simple/menus/Replays:69
+msgid "Select Replay"
+msgstr "Verfügbare Aufzeichnungen"
+
+#: ../skins/simple/menus/CarSetup:140 ../skins/simple/menus/CarSetup:160
+#: ../skins/simple/menus/Garage:140 ../skins/simple/menus/Garage:160
+msgid "Select car driver."
+msgstr "Wählen Sie einen Fahrer."
+
+#: ../skins/simple/menus/CameraViewControls:215
+#: ../skins/simple/menus/CameraViewControls:234
+#: ../skins/simple/menus/CameraViewControls:253
+msgid "Select car's hood camera."
+msgstr "Zur Motorhaubenkamera wechseln"
+
+#: ../skins/simple/menus/CameraViewControls:282
+#: ../skins/simple/menus/CameraViewControls:301
+#: ../skins/simple/menus/CameraViewControls:320
+msgid "Select driver's view camera."
+msgstr "Zur Fahrerkamera wechseln."
+
+#: ../skins/simple/menus/CameraViewControls:416
+#: ../skins/simple/menus/CameraViewControls:435
+msgid "Select loose chase camera."
+msgstr "Zur losen Verfolgerkamera wechseln."
+
+#: ../skins/simple/menus/CameraViewControls:148
+#: ../skins/simple/menus/CameraViewControls:167
+#: ../skins/simple/menus/CameraViewControls:186
+msgid "Select next camera in the set."
+msgstr "Zur nächsten Kamera wechseln."
+
+#: ../skins/simple/menus/CameraViewControls:81
+#: ../skins/simple/menus/CameraViewControls:100
+#: ../skins/simple/menus/CameraViewControls:119
+msgid "Select previous camera in the set."
+msgstr "Zur vorherigen Kamera wechseln."
+
+#: ../skins/simple/menus/CameraViewControls:349
+#: ../skins/simple/menus/CameraViewControls:368
+#: ../skins/simple/menus/CameraViewControls:387
+msgid "Select rigid chase camera."
+msgstr "Zur festen Verfolgerkamera wechseln."
+
+#: ../skins/simple/menus/GuiControls:81 ../skins/simple/menus/GuiControls:100
+#: ../skins/simple/menus/GuiControls:118
+msgid "Select the currently focused menu item."
+msgstr "Gegenwärtig aktives Menüelement betätigen."
+
+#: ../skins/simple/menus/Replays:81 ../skins/simple/menus/Replays:101
+msgid "Select the replay to watch."
+msgstr "Wähle die zu wiedergebende Aufzeichnung."
+
+#: ../skins/simple/menus/CameraViewControls:742
+msgid "Set camera movement controls."
+msgstr "Tasten zur Bewegung der Kamera zuweisen."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:741
+#: ../skins/simple/menus/DisplayOptionsAdvanced:761
+msgid "Set how good the SSAO looks during gameplay."
+msgstr "Die Qualität der Umgebungsschatten festlegen."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:800
+#: ../skins/simple/menus/DisplayOptionsAdvanced:820
+msgid "Set how good the reflections looks during gameplay."
+msgstr "Die Qualität der Reflektionen festlegen."
+
+#: ../skins/simple/menus/SingleRace:386 ../skins/simple/menus/SingleRace:406
+msgid "Set number of opponents. Zero to run a practice session."
+msgstr "Die Anzahl der Gegner festlegen. Null Gegner, um eine Testfahrt zu starten."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:268
+#: ../skins/simple/menus/DisplayOptionsAdvanced:288
+msgid "Set the anisotropic filtering level for textures."
+msgstr "Das Level der Anisotropen Filterung für Texturen festlegen."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:859
+#: ../skins/simple/menus/DisplayOptionsAdvanced:879
+msgid "Set the distance at which shadows become visible."
+msgstr "Den Abstand, ab dem Schatten sichtbar werden, festlegen."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:327
+#: ../skins/simple/menus/DisplayOptionsAdvanced:347
+msgid "Set the full scene antialiasing level."
+msgstr "Vollbild-Kantenglättungsstärke festlegen."
+
+#: ../skins/simple/menus/SingleRace:150 ../skins/simple/menus/SingleRace:170
+msgid "Set the number of laps for a single race."
+msgstr "Anzahl der Runden für ein einzelnes Rennen festlegen."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:918
+#: ../skins/simple/menus/DisplayOptionsAdvanced:938
+msgid "Set the quality of shadow rendering."
+msgstr "Die Qualität der Schattendarstellung festlegen."
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:847
+msgid "Shadow Distance"
+msgstr "Schattensichtweite"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:906
+msgid "Shadow Quality"
+msgstr "Schattenqualität"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:374
+msgid "Shadows"
+msgstr "Schatten"
+
+#: ../skins/simple/menus/TransmissionControls:203
+msgid "Shift Down"
+msgstr "Herunterschalten"
+
+#: ../skins/simple/menus/TransmissionControls:136
+msgid "Shift Up"
+msgstr "Hochschalten"
+
+#: ../skins/simple/menus/Garage:706
+msgid "Single Race"
+msgstr "Einzelrennen"
+
+#: ../skins/simple/menus/ReplaysControls:136
+msgid "Skip Backward"
+msgstr "Zurück springen"
+
+#: ../skins/simple/menus/ReplaysControls:69
+msgid "Skip Forward"
+msgstr "Vorwärts springen"
+
+#: ../skins/simple/menus/InputDevice:352 ../skins/simple/menus/InputDevice:372
+msgid "Slow down the application of button inputs on analogue controls."
+msgstr "Tastenempfindlichkeit (Dauer zum Erreichen des Maximalwerts) ändern."
+
+#: ../settings/options.config:143
+msgid "Small"
+msgstr "Klein"
+
+#: ../skins/simple/menus/DisplayOptions:69
+#: ../skins/simple/menus/DisplayOptionsAdvanced:69
+msgid "Some options will not take effect until the game is restarted"
+msgstr "Einige Einstellungen benötigen einen Neustart."
+
+#: ../skins/simple/menus/Options:103
+msgid "Sound"
+msgstr "Audio"
+
+#: ../skins/simple/menus/SoundOptions:69
+msgid "Sound Sources"
+msgstr "Audioquellen"
+
+#: ../skins/simple/menus/SoundOptions:128
+msgid "Sounds Volume"
+msgstr "Geräuschlautstärke"
+
+#: ../skins/simple/menus/DisplayOptions:257
+msgid "Speed Units"
+msgstr "Geschwindigkeitseinheiten"
+
+#: ../settings/options.config:295
+msgid "Speed sensitive Hi"
+msgstr "Starker Geschwindigkeitseffekt"
+
+#: ../settings/options.config:293
+msgid "Speed sensitive Lo"
+msgstr "Schwacher Geschwindigkeitseffekt"
+
+#: ../skins/simple/menus/CarControls:337
+msgid "Start Engine"
+msgstr "Motor starten"
+
+#: ../skins/simple/menus/CarSetup:706 ../skins/simple/menus/SingleRace:567
+#: ../skins/simple/menus/StartingGrid:209
+msgid "Start Race"
+msgstr "Rennen starten"
+
+#: ../skins/simple/menus/Replays:128
+msgid "Start Replay"
+msgstr "Aufzeichnung abspielen"
+
+#: ../skins/simple/menus/CarSetup:709 ../skins/simple/menus/SingleRace:570
+#: ../skins/simple/menus/StartingGrid:212
+msgid "Start a race using the selected car and track."
+msgstr "Rennen mit ausgewählten Fahrzeug und Strecke starten."
+
+#: ../skins/simple/menus/Garage:709 ../skins/simple/menus/Main:78
+msgid "Start a race."
+msgstr "Rennen starten."
+
+#: ../skins/simple/menus/CarSetup:69 ../skins/simple/menus/Garage:69
+msgid "Start position"
+msgstr "Startposition"
+
+#: ../skins/simple/menus/SingleRace:539
+msgid "Starting Grid"
+msgstr "Startaufstellung"
+
+#: ../skins/simple/menus/CarControls:203
+msgid "Steer Left"
+msgstr "Links lenken"
+
+#: ../skins/simple/menus/CarControls:270
+msgid "Steer Right"
+msgstr "Rechts lenken"
+
+#: ../skins/simple/menus/InputDevice:293
+msgid "Steering Speed Effect"
+msgstr "Aktivlenkung"
+
+#: ../settings/options.config:274
+msgid "Steering Wheel"
+msgstr "Lenkrad"
+
+#: ../skins/simple/menus/CarControls:538
+msgid "TCS Toggle"
+msgstr "TCS-Schalter"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:138
+msgid "Texture Size"
+msgstr "Texturgröße"
+
+#: ../skins/simple/menus/CarControls:483 ../skins/simple/menus/CarControls:502
+#: ../skins/simple/menus/CarControls:521
+msgid "The ABS toggle turns anti-lock braking on or off while playing."
+msgstr "Der ABS-Schalter (de-)aktiviert das Antiblockiesystem während des Rennens."
+
+#: ../skins/simple/menus/CarControls:550 ../skins/simple/menus/CarControls:569
+#: ../skins/simple/menus/CarControls:588
+msgid "The TCS toggle turns traction control on or off while playing."
+msgstr "Der TCS-Schalter (de-)aktiviert während der Fahrt die Traktionskontrolle."
+
+#: ../skins/simple/menus/TransmissionControls:81
+#: ../skins/simple/menus/TransmissionControls:100
+#: ../skins/simple/menus/TransmissionControls:119
+msgid ""
+"The analog clutch control can allow you to use an external clutch pedal."
+msgstr "Die analoge Kupplung ermöglicht die Benutzung eines Pedals zum Kuppeln."
+
+#: ../skins/simple/menus/CarControls:148 ../skins/simple/menus/CarControls:167
+#: ../skins/simple/menus/CarControls:186
+msgid "The brake control causes the car to slow down."
+msgstr "Die Bremsen-Taste lässt das Fahrzeug langsamer werden"
+
+#: ../skins/simple/menus/TransmissionControls:617
+#: ../skins/simple/menus/TransmissionControls:636
+#: ../skins/simple/menus/TransmissionControls:655
+msgid "The fifth gear control shifts the car into fifth gear."
+msgstr "Die Taste '5. Gang' schaltet das Fahrzeug in den fünften Gang."
+
+#: ../skins/simple/menus/TransmissionControls:349
+#: ../skins/simple/menus/TransmissionControls:368
+#: ../skins/simple/menus/TransmissionControls:387
+msgid "The first gear control shifts the car into first gear."
+msgstr "Die Taste '1. Gang' schaltet das Fahrzeug in den ersten Gang."
+
+#: ../skins/simple/menus/TransmissionControls:550
+#: ../skins/simple/menus/TransmissionControls:569
+#: ../skins/simple/menus/TransmissionControls:588
+msgid "The fourth gear control shifts the car into fourth gear."
+msgstr "Die Taste '4. Gang' schaltet das Fahrzeug in den vierten Gang."
+
+#: ../skins/simple/menus/CameraViewControls:550
+#: ../skins/simple/menus/CameraViewControls:569
+#: ../skins/simple/menus/CameraViewControls:588
+msgid "The free camera can be moved anywhere using the arrow keys."
+msgstr "Die freie Kamera kann mittels der Pfeiltasten beliebig bewegt werden."
+
+#: ../skins/simple/menus/CarControls:81 ../skins/simple/menus/CarControls:100
+#: ../skins/simple/menus/CarControls:119
+msgid "The gas control causes the car to speed up."
+msgstr "Die Taste 'Gas' beschleunigt das Fahrzeug."
+
+#: ../skins/simple/menus/CarControls:416 ../skins/simple/menus/CarControls:435
+#: ../skins/simple/menus/CarControls:454
+msgid "The handbrake brakes only on the back wheels."
+msgstr "Die Taste 'Handbremse' verzögert das Fahrzeug nur mit den Hinterrädern."
+
+#: ../skins/simple/menus/InputDevice:304
+msgid ""
+"The higher the value on this setting, the more steering is limited as car "
+"speed increases."
+msgstr "Je höher der Wert, umso geringer der Lenkausschlag bei steigender Fahrzeuggeschwindigkeit."
+
+#: ../skins/simple/menus/TransmissionControls:282
+#: ../skins/simple/menus/TransmissionControls:301
+#: ../skins/simple/menus/TransmissionControls:320
+msgid "The neutral control shifts the car into neutral."
+msgstr "Die Taste 'Leerlauf' entkoppelt Motor und Fahrwerk."
+
+#: ../skins/simple/menus/CameraViewControls:483
+#: ../skins/simple/menus/CameraViewControls:502
+#: ../skins/simple/menus/CameraViewControls:521
+msgid "The orbit camera swings around the car as the mouse moves."
+msgstr "Die Orbitkamera kann mit der Maus um das Fahrzeug geschwenkt werden."
+
+#: ../skins/simple/menus/ToolsControls:81
+#: ../skins/simple/menus/ToolsControls:100
+#: ../skins/simple/menus/ToolsControls:119
+msgid "The pause control freezes the game (except in multiplayer)."
+msgstr "Die Taste 'Pause' unterbricht das Spiel, sofern es sich nicht um ein Netzwerkspiel handelt."
+
+#: ../skins/simple/menus/TransmissionControls:751
+#: ../skins/simple/menus/TransmissionControls:770
+#: ../skins/simple/menus/TransmissionControls:789
+msgid "The reverse control puts the car into reverse gear."
+msgstr "Die Taste 'Rückwärtsgang' schaltet in den Rückwärtsgang."
+
+#: ../skins/simple/menus/ToolsControls:148
+#: ../skins/simple/menus/ToolsControls:167
+#: ../skins/simple/menus/ToolsControls:186
+msgid "The screen shot control saves a snapshot of the game while playing."
+msgstr "Die Taste 'Bildschirmfoto' speichert den aktuellen Bildschirminhalts als Bilddatei ab."
+
+#: ../skins/simple/menus/TransmissionControls:416
+#: ../skins/simple/menus/TransmissionControls:435
+#: ../skins/simple/menus/TransmissionControls:454
+msgid "The second gear control shifts the car into second gear."
+msgstr "Die Taste '2. Gang' schaltet in den zweiten Gang."
+
+#: ../skins/simple/menus/TransmissionControls:215
+#: ../skins/simple/menus/TransmissionControls:234
+#: ../skins/simple/menus/TransmissionControls:253
+msgid "The shift down control changes the car's gear to the previous one."
+msgstr "Die Taste 'Herunterschalten' schaltet einen Gang herunter."
+
+#: ../skins/simple/menus/TransmissionControls:148
+#: ../skins/simple/menus/TransmissionControls:167
+#: ../skins/simple/menus/TransmissionControls:186
+msgid "The shift up control changes the car's gear to the next one."
+msgstr "Die Taste 'Hochschalten' schaltet einen Gang hoch."
+
+#: ../skins/simple/menus/TransmissionControls:684
+#: ../skins/simple/menus/TransmissionControls:703
+#: ../skins/simple/menus/TransmissionControls:722
+msgid "The sixth gear control shifts the car into sixth gear."
+msgstr "Die Taste '6. Gang' schaltet in den sechsten Gang."
+
+#: ../skins/simple/menus/ReplaysControls:148
+#: ../skins/simple/menus/ReplaysControls:167
+#: ../skins/simple/menus/ReplaysControls:186
+msgid "The skip backward control goes back ten seconds during a replay."
+msgstr "Die Taste 'zurück springen' lässt das Replay von 10 Sekunden zuvor abspielen."
+
+#: ../skins/simple/menus/ReplaysControls:81
+#: ../skins/simple/menus/ReplaysControls:100
+#: ../skins/simple/menus/ReplaysControls:119
+msgid "The skip forward control skips ahead ten seconds during a replay."
+msgstr "Die Tate 'vor springen' lässt das Replay von 10 Sekunden später abspielen."
+
+#: ../skins/simple/menus/CarControls:349 ../skins/simple/menus/CarControls:368
+#: ../skins/simple/menus/CarControls:387
+msgid "The start engine control will restart the engine if it stalls."
+msgstr "Die Taste 'Motor starten' startet den Motor, sollte er ein Mal ausgehen."
+
+#: ../skins/simple/menus/CarControls:215 ../skins/simple/menus/CarControls:234
+#: ../skins/simple/menus/CarControls:253
+msgid "The steer left control causes the car to turn left."
+msgstr "Die Taste 'Links lenken' lässt das Fahrzeug links herum lenken."
+
+#: ../skins/simple/menus/CarControls:282 ../skins/simple/menus/CarControls:301
+#: ../skins/simple/menus/CarControls:320
+msgid "The steer right control causes the car to turn right."
+msgstr "Die Taste 'Rechts lenken' lässt das Fahrzeug rechts herum lenken."
+
+#: ../skins/simple/menus/TransmissionControls:483
+#: ../skins/simple/menus/TransmissionControls:502
+#: ../skins/simple/menus/TransmissionControls:521
+msgid "The third gear control shifts the car into third gear."
+msgstr "Die Taste '3. Gang' schaltet in den dritten Gang."
+
+#: ../skins/simple/menus/DataConnectionError:37
+msgid "There was an error connecting to the VDrift data server."
+msgstr "Es gab einen Fehler beim Verbindungsaufbau zum Server."
+
+#: ../skins/simple/menus/ReplayStartError:37
+msgid "There was an error when trying to play this replay."
+msgstr "Es gab einen Fehler beim Abspielen dieser Wiederholung."
+
+#: ../skins/simple/menus/CarSetup:293 ../skins/simple/menus/Garage:293
+msgid "Tire"
+msgstr "Reifen"
+
+#: ../skins/simple/menus/DisplayOptions:151
+#: ../skins/simple/menus/DisplayOptions:171
+msgid "Toggle fullscreen mode on and off."
+msgstr "Vollbildmodus (de-)aktivieren."
+
+#: ../skins/simple/menus/DisplayOptions:210
+#: ../skins/simple/menus/DisplayOptions:230
+msgid "Toggle vertical synchronization on and off."
+msgstr "Umschalten zwischen vertikale Synchronisation ein und aus."
+
+#: ../skins/simple/menus/ControlsOptions:159
+msgid "Tools"
+msgstr "Werkzeuge"
+
+#: ../skins/simple/menus/SingleRace:79 ../skins/simple/menus/TrackManager:69
+msgid "Track"
+msgstr "Strecke"
+
+#: ../skins/simple/menus/SingleRace:315
+msgid "Track Damage"
+msgstr "Streckenschaden"
+
+#: ../skins/simple/menus/DisplayOptions:611
+msgid "Track Map"
+msgstr "Streckenkarte"
+
+#: ../skins/simple/menus/TrackManager:119
+msgid "Track Name"
+msgstr "Streckenname"
+
+#: ../skins/simple/menus/UpdatesFound:58
+msgid "Track updates"
+msgstr "Streckenaktualisierungen"
+
+#: ../skins/simple/menus/Updates:75
+msgid "Tracks"
+msgstr "Strecken"
+
+#: ../skins/simple/menus/CarSetup:647 ../skins/simple/menus/Garage:647
+msgid "Traction Control"
+msgstr "Traktionskontrolle"
+
+#: ../skins/simple/menus/CarControls:739
+msgid "Transmission"
+msgstr "Getriebe"
+
+#: ../skins/simple/menus/EditButtonControl:100
+#: ../skins/simple/menus/EditButtonControl:120
+msgid "Trigger the control when the key is pressed or released?"
+msgstr "Diese Aktion ausführen, wenn die Taste betätigt oder losgelassen wird?"
+
+#: ../skins/simple/menus/EditButtonControl:88
+msgid "Trigger when"
+msgstr "Auslösen, wenn"
+
+#: ../skins/simple/menus/CameraMovementControls:282
+#: ../skins/simple/menus/CameraMovementControls:301
+#: ../skins/simple/menus/CameraMovementControls:320
+msgid "Turn the camera view downwards."
+msgstr "Kamera nach unten schwenken."
+
+#: ../skins/simple/menus/CameraMovementControls:81
+#: ../skins/simple/menus/CameraMovementControls:100
+#: ../skins/simple/menus/CameraMovementControls:119
+msgid "Turn the camera view to the left."
+msgstr "Kamera nach links schwenken."
+
+#: ../skins/simple/menus/CameraMovementControls:148
+#: ../skins/simple/menus/CameraMovementControls:167
+#: ../skins/simple/menus/CameraMovementControls:186
+msgid "Turn the camera view to the right."
+msgstr "Kamera nach rechts schwenken."
+
+#: ../skins/simple/menus/CameraMovementControls:215
+#: ../skins/simple/menus/CameraMovementControls:234
+#: ../skins/simple/menus/CameraMovementControls:253
+msgid "Turn the camera view upwards."
+msgstr "Kamera nach oben schwenken."
+
+#: ../skins/simple/menus/InputDevice:69
+msgid "Type"
+msgstr "Typ"
+
+#: ../skins/simple/menus/GuiControls:337
+msgid "Up"
+msgstr "Hoch"
+
+#: ../skins/simple/menus/UpdateSuccessful:37
+msgid "Update Successful"
+msgstr "Aktualisierung erfolgreich"
+
+#: ../skins/simple/menus/CarManager:170 ../skins/simple/menus/TrackManager:170
+msgid "Update this track to the latest version."
+msgstr "Bringe diese Strecke auf den neusten Stand."
+
+#: ../skins/simple/menus/Main:159 ../skins/simple/menus/Updates:37
+msgid "Updates"
+msgstr "Aktualisierung"
+
+#: ../skins/simple/menus/CarManager:59
+msgid "Updates / Cars"
+msgstr "Aktualisierung / Fahrzeuge"
+
+#: ../skins/simple/menus/TrackManager:59
+msgid "Updates / Tracks"
+msgstr "Aktualisierung / Strecken"
+
+#: ../skins/simple/menus/UpdatesFound:37
+msgid "Updates / Update"
+msgstr "Aktualisierung / Aktualisieren"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:563
+#: ../skins/simple/menus/DisplayOptionsAdvanced:583
+msgid "Use normal maps."
+msgstr "Verwende Normalmapping."
+
+#: ../skins/simple/menus/DisplayOptions:198
+msgid "Vertical Sync"
+msgstr "Vertikale Synchronisation"
+
+#: ../settings/options.config:204
+msgid "Very High"
+msgstr "Sehr hoch"
+
+#: ../settings/options.config:196
+msgid "Very Low"
+msgstr "Sehr niedrig"
+
+#: ../skins/simple/menus/DisplayOptionsAdvanced:197
+msgid "View Distance"
+msgstr "Sichtweite"
+
+#: ../skins/simple/menus/DisplayOptions:564
+#: ../skins/simple/menus/DisplayOptions:584
+msgid "Visualise the steering and acceleration/braking on screen."
+msgstr "Lenk-, Gas- und Bremseingaben anzeigen."
+
+#: ../skins/simple/menus/CarSetup:352 ../skins/simple/menus/Garage:352
+msgid "Wheel"
+msgstr "Felge"
+
+#: ../skins/simple/menus/EditButtonControl:147
+msgid "When triggered"
+msgstr "Wenn ausgelöst"
+
+#: ../settings/options.config:444
+msgid "Wide"
+msgstr "Weit"
+
+#: ../skins/simple/menus/EditButtonControl:159
+#: ../skins/simple/menus/EditButtonControl:179
+msgid ""
+"Will this input be activated once per press, or whenever it's held down?"
+msgstr "Sende Signal einmal bei Tastendruck oder fortlaufend solange die Taste gehalten wird."
+
+#: ../skins/simple/menus/QuitConfirm:74 ../settings/options.config:303
+msgid "Yes"
+msgstr "Ja"
+
+#: ../../src/hud.cpp:113
+msgid "You lost"
+msgstr "Du hast verloren"
+
+#: ../skins/simple/menus/UpdateFailedVersion:37
+msgid "You must update to the latest VDrift release."
+msgstr "Sie müssen VDrift auf die neueste Version aktualisieren."
+
+#: ../../src/hud.cpp:112
+msgid "You won!"
+msgstr "Du hast gewonnen!"
+
+#: ../skins/simple/menus/CameraMovementControls:337
+msgid "Zoom In"
+msgstr "Hineinzoomen"
+
+#: ../skins/simple/menus/CameraMovementControls:404
+msgid "Zoom Out"
+msgstr "Herauszoomen"
+
+#: ../skins/simple/menus/CameraMovementControls:349
+#: ../skins/simple/menus/CameraMovementControls:368
+#: ../skins/simple/menus/CameraMovementControls:387
+msgid "Zoom camera in."
+msgstr "Kamera hineinzoomen."
+
+#: ../skins/simple/menus/CameraMovementControls:416
+#: ../skins/simple/menus/CameraMovementControls:435
+#: ../skins/simple/menus/CameraMovementControls:454
+msgid "Zoom camera out."
+msgstr "Kamera herauszoomen."
+
+#: ../settings/options.config:698
+msgid "gl2 basic"
+msgstr "GL2 Basic"
+
+#: ../settings/options.config:700
+msgid "gl2 deferred"
+msgstr "GL2 Deferred"
+
+#: ../settings/options.config:702
+msgid "gl3 deferred"
+msgstr "GL3 Deferred"
+
+#: ../settings/options.config:820
+msgid "hold value"
+msgstr "Wert halten"
+
+#: ../settings/options.config:188
+msgid "kph"
+msgstr "km/h"
+
+#: ../settings/options.config:392
+msgid "long"
+msgstr "lang"
+
+#: ../settings/options.config:394
+msgid "medium"
+msgstr "mittel"
+
+#: ../settings/options.config:187
+msgid "mph"
+msgstr "mph"
+
+#: ../settings/options.config:827
+msgid "pressed"
+msgstr "gedrückt"
+
+#: ../settings/options.config:819
+msgid "pulse once"
+msgstr "Einzelpuls abgeben"
+
+#: ../settings/options.config:828
+msgid "released"
+msgstr "losgelassen"
+
+#: ../settings/options.config:396
+msgid "short"
+msgstr "kurz"

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+	
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="robots" content="index, follow">
+	<link rel="shortcut icon" href="http://www.vdrift.net/theme/Simplico/images/favicon.ico" type="image/x-icon" />
+	
+	<title>About - VDrift</title>
+	
+	<link rel="stylesheet" href="http://www.vdrift.net/theme/Simplico/css/reset.css" />
+	<link rel="stylesheet" href="http://www.vdrift.net/theme/Simplico/css/style.css?v=3.1.2" />
+	
+	<!--[if lt IE 9]>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]--> 
+
+	<link href="http://fonts.googleapis.com/css?family=Wire+One" rel="stylesheet" type="text/css">
+	
+	<meta name="description" content="VDrift is a cross-platform, open source driving simulation made with drift racing in mind. The driving physics engine was recently re-written from scratch but w" />
+<meta name="generator" content="GetSimple" />
+<link rel="canonical" href="http://www.vdrift.net/" />
+	
+</head> 
+
+<body id="index" >
+
+<div class="wrapper">
+	
+<header class="clearfix">
+
+	<div class="clearfix">
+		
+		<h1><a href="http://www.vdrift.net/" id="logo" ><img src="logo.png" /></a></h1>
+	
+		<div class="headerSocial">
+											</div>
+		
+	</div>
+		
+	<nav class="clearfix">
+		<ul>
+			<li class="current  index"><a href="http://www.vdrift.net/" title="About">Home</a></li>
+			<li><a href="http://vdrift.net/Forum/">Forum</a></li>
+<li><a href="http://wiki.vdrift.net">Wiki</a></li>
+<li><a href="https://github.com/VDrift/vdrift/">Source</a></li>
+<li><a href="https://github.com/VDrift/vdrift/issues">Issues</a></li>
+		</ul>
+	</nav>
+
+</header>	
+<div class="pageBaner"><!-- --></div>
+
+<p class="breadcrumbs" >
+	<a href="http://www.vdrift.net/">Home</a> &rarr;  About</p>
+		
+<section class="clearfix">
+	
+	<article>
+		<h1 class="pageTitle">About</h1>
+		VDrift is a cross-platform, open source driving simulation made with drift racing in mind. The driving physics engine was recently re-written from scratch but was inspired and owes much to the <a href="http://vamos.sourceforge.net">Vamos physics engine</a>. It is released under the <a href="http://www.gnu.org/copyleft/gpl.html">GNU General Public License (GPL) v2</a>. It is currently available for <a href="http://www.linux.org/">Linux</a>, <a href="http://www.freebsd.org/">FreeBSD</a>, <a href="http://www.apple.com/macosx/">Mac OS X</a> and Windows. <br /><br /> This game is in the early stages of development but is already very playable. Currently the game features:
+            <ul>
+                <li>Simulation-grade driving physics</li>
+                <li>Tracks based on famous real-world tracks</li>
+                <li>Cars based on real-world vehicles</li>
+                <li>Competition against AI players</li>
+                <li>Mouse/joystick/gamepad/wheel/keyboard support</li>
+                <li><a href="http://wiki.vdrift.net/About_the_project">More...</a></li>
+            </ul>
+		<h1>Recent Forum Threads</h1>
+		<table>
+		<tbody>
+		<tr>
+			<td><a target='_blank' href='http://www.vdrift.net/Forum/showthread.php?tid=1687'>GL2/1 renderer cleanup</a> - NaN<br/><i>Sun, 03 Feb 2013 21:40:53 +0000 </i><br/><a target='_blank' href='http://www.vdrift.net/Forum/showthread.php?tid=1377'>Multilanguage</a> - GunChleoc<br/><i>Fri, 25 Jan 2013 20:56:05 +0000 </i><br/><a target='_blank' href='http://www.vdrift.net/Forum/showthread.php?tid=1629'>Stunt Rally (VDrift+Ogre), multiplayer</a> - NaN<br/><i>Tue, 15 Jan 2013 18:47:48 +0000 </i><br/><a target='_blank' href='http://www.vdrift.net/Forum/showthread.php?tid=1671'>OSM2World support</a> - NaN<br/><i>Wed, 09 Jan 2013 16:49:08 +0000 </i><br/><a target='_blank' href='http://www.vdrift.net/Forum/showthread.php?tid=1680'>how to draw_mirror_views in this game</a> - joevenzon<br/><i>Sun, 06 Jan 2013 18:14:04 +0000 </i><br/><a target='_blank' href='http://www.vdrift.net/Forum/showthread.php?tid=1677'>Where are the in and outputs of the engine?</a> - joevenzon<br/><i>Sun, 06 Jan 2013 18:13:29 +0000 </i><br/><a target='_blank' href='http://www.vdrift.net/Forum/showthread.php?tid=1683'>Install Vdrift Under archlinux</a> - eMan<br/><i>Thu, 03 Jan 2013 07:53:29 +0000 </i><br/><a target='_blank' href='http://www.vdrift.net/Forum/showthread.php?tid=1676'>is there any way to accomplish this in Linux?</a> - NaN<br/><i>Thu, 27 Dec 2012 16:11:53 +0000 </i><br/><a target='_blank' href='http://www.vdrift.net/Forum/showthread.php?tid=1666'>vdrift wont start</a> - Reggid<br/><i>Mon, 17 Dec 2012 01:36:14 +0000 </i><br/><a target='_blank' href='http://www.vdrift.net/Forum/showthread.php?tid=1674'>Gasoline current consumption?</a> - kidice<br/><i>Thu, 13 Dec 2012 17:03:11 +0000 </i><br/></td>
+		</tr>
+		</tbody>
+		</table>
+	</article>
+	
+	
+<aside >
+
+	<div class="sidebar">
+		<h1>Downloads</h1>
+<table cellspacing="1" cellpadding="1" border="1" align="left" width="100%">
+<tbody>
+                    <tr>
+                        <th>platform</th><th align="right">release</th>
+                    </tr>
+                    <tr>
+                        <td>Windows</td>
+                        <td align="right"><a href="http://sourceforge.net/projects/vdrift/files/vdrift/vdrift-2012-07-22/vdrift-2012-07-22.exe/download">2012-07-22</a></td>
+                    </tr>
+                    <tr>
+                        <td>Mac OS X</td>
+                        <td align="right"><a href="http://sourceforge.net/projects/vdrift/files/vdrift/vdrift-2012-07-22/vdrift-mac-2012-07-22.dmg/download">2012-07-22</a></td>
+                    </tr>
+<tr>
+                        <td>Ubuntu</td>
+                        <td align="right"><a href="http://www.playdeb.net/software/VDrift">2012-07-22</a></td>
+                    </tr>
+                    <tr>
+                        <td>FreeBSD</td>
+                        <td align="right">in ports</td>
+                    </tr>
+                    <tr>
+                        <td>source (Linux et al)</td>
+                        <td align="right"><a href="http://sourceforge.net/projects/vdrift/files/vdrift/vdrift-2012-07-22/vdrift-2012-07-22.tar.bz2/download">2012-07-22</a></td></tr>
+</tbody>
+            </table>
+<p>&nbsp;<p />
+<h1>Videos</h1>
+<iframe src="http://www.youtube.com/embed/videoseries?list=PL39564EDB4B815C2D"  width="280" height="240" frameborder="0"></iframe>​	</div>
+
+</aside>	
+</section>				
+			<!-- page footer
+			<div class="footer">
+				<p>Published on <time datetime="2012-08-25" pubdate>August 25th, 2012</time></p>
+			</div> -->
+
+
+
+<!-- include the footer template -->
+
+<!-- site footer -->
+<footer class="clearfix" >
+		
+		<div class="left">
+			&copy; copyrights: <a href="http://www.vdrift.net/" >VDrift</a> | 
+			Design by <a target="_blank" href="http://mdesigns.pl">mkopala</a> | <a href="http://get-simple.info/" target="_blank" >Powered by  GetSimple</a>		</div>
+		
+		<div class="right">
+														</div>
+		
+</footer>
+	 
+</div><!--wrapper-->	 
+	 
+</body>
+</html>

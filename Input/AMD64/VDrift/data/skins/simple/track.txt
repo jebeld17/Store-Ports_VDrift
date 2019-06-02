@@ -1,0 +1,6 @@
+cull faces = on
+vertical tracking skyboxes = no
+non-treaded friction coefficient = 1.000000
+treaded friction coefficient = 0.900000
+start position 0 = 0.0000,0.5000,0.0000
+start orientation 0 = 0.00,-70.00,0.00
