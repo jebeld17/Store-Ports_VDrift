@@ -1,4 +1,0 @@
-M7
-
-Base Model by Cougar, refining and settings by Dick Maurer
-Additional handling tweaks by Cotharyus.

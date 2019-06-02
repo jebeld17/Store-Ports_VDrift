@@ -1,9 +1,0 @@
-texture = toolbox_red.png
-model = toolbox.joe
-mass-center = 0.0, 0.0, 0.0
-mass = 15
-
-[shape.box.foo]
-center = 0.0, 0.0, 0.0
-size = 0.1,0.1,0.1
-

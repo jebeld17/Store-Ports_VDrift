@@ -1,9 +1,0 @@
-partname = Carbon-Metallic Pads
-
-[ brakes-front ]
-friction = 1.15
-friction-changetype = multiply
-
-[ brakes-rear ]
-friction = 1.15
-friction-changetype = multiply
